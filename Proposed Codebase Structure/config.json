@@ -1,0 +1,12 @@
+{
+  "max_pitch_adjustment": "your_value_here",
+  "min_pitch": "your_value_here",
+  "max_pitch": "your_value_here",
+  "stabilization_timeout": "your_value_here",
+  "engagement_altitude": "your_value_here",
+  "max_sudden_change": "your_value_here",
+  "max_consecutive_errors": "your_value_here",
+  "target_altitude": 6000.0,
+  "initial_altitude": 3000.0,
+  "initial_pitch": 5.0
+}
